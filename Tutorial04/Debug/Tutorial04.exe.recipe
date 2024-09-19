@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Katerina\unik\7sem\comp_graph\Direct3D Tutorial Win32 Sample (1)\C++\Debug\Tutorial04.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Katerina\unik\7sem\comp_graph\Direct3D Tutorial Win32 Sample (1)\C++\Debug\Tutorial04_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Katerina\unik\7sem\comp_graph\Direct3D Tutorial Win32 Sample (1)\C++\Debug\Tutorial04_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
